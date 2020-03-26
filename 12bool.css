@@ -6,7 +6,6 @@
 .container {
     max-width: 1170px;
     margin: 0 auto;
-    border: 1px solid PaleVioletRed;
 }
 .container::after {
     clear: both;
@@ -17,7 +16,7 @@
     float: left;
 }
 /**responsive, breakpoint max 768px **/
-@media all and (max-width 767px) {
+@media all and (max-width: 767px) {
 
 .col-xs-1 {
     width: calc(100% / 12);
@@ -170,7 +169,7 @@ and (max-width: 991px) {
 }
 /**responsive, breakpoint min 992px**/
 
-@media all and (min-width 992px) {
+@media all and (min-width: 992px) {
     .col-lg-1 {
         width: calc(100% / 12);
     }
