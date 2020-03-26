@@ -163,7 +163,6 @@ and (max-width: 991px) {
         margin-left: calc((100% / 12 * 11));
     }
 }
-/**responsive, breakpoint min 992px**/
 
 @media all and (min-width: 992px) {
     .col-lg-1 {
