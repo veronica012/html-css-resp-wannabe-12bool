@@ -148,7 +148,7 @@ and (max-width: 991px) {
     .col-md-offset-5 {
         margin-left: calc((100% / 12 * 5));
     }
-    .col-md-offset-6{
+    .col-md-offset-6 {
         margin-left: calc((100% / 12 * 6));
     }
     .col-md-offset-7 {
